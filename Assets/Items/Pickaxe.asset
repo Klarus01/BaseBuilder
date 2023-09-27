@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd3e02a4f5cb0854f90bd4ef10c52013, type: 3}
   m_Name: Pickaxe
   m_EditorClassIdentifier: 
+  ID: 2
+  displayName: Pickaxe
   sprite: {fileID: 21300000, guid: 8d98ab6168c3e91439339f1908b8fe97, type: 3}
-  type: 1
-  actionType: 1
-  range: {x: 5, y: 4}
-  isStackable: 0
+  maxStrackSize: 1

@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd3e02a4f5cb0854f90bd4ef10c52013, type: 3}
   m_Name: Stone
   m_EditorClassIdentifier: 
+  ID: 1
+  displayName: Stone
   sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  maxStrackSize: 8
